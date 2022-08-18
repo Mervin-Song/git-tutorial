@@ -36,3 +36,6 @@ When a new folder is created OUTSIDE of the original cloned repo from github, it
 ## git pull 'branch name'
 Make sure to always run git pull 'branch name' as a habit in order to pull the latest update from dev branch or something.
 
+adasdasdasdasdasd
+asdsadsadasdasd
+asdasd
