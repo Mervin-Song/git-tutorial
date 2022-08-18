@@ -33,5 +33,6 @@ To initialize a file and make it into an empty git repository
 ## git remote add origin <HTTPSLINK>
 When a new folder is created OUTSIDE of the original cloned repo from github, it wont be automatically connected to github. We need to use the above code to add it
 
-asdasdasdasdsa
+## git pull 'branch name'
+Make sure to always run git pull 'branch name' as a habit in order to pull the latest update from dev branch or something.
 
