@@ -24,4 +24,13 @@ ssh agent service (?)
 
 ## git push origin master
 origin stands for the location of our git repository
-master stands for the branch that we want to push to
+master stands for the branch that we want to push to.
+E.g. git push origin dev => push to the dev branch
+
+## git init
+To initialize a file and make it into an empty git repository
+
+## git remote add origin <HTTPSLINK>
+When a new folder is created OUTSIDE of the original cloned repo from github, it wont be automatically connected to github. We need to use the above code to add it
+
+
